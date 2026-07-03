@@ -1,2 +1,2 @@
-# Unimelb-SWEN90016-Group-Porject
-Agile/Scrum artifacts from a 5-person, 3-sprint client project — an interactive urban tree-mapping web app for Melbourne. Sprint planning, backlogs, stand-ups, burn-down charts, QA test cases, risk monitoring &amp; retrospectives.
+# UniMelb-SWEN90016-Scrum-Project
+A completed group project documentation for SWEN90016 (Software Processes and Management) at the University of Melbourne. A five-person team delivered an interactive urban tree-mapping web app over three Scrum sprints, with full documentation of sprint planning, backlogs, stand-ups, QA testing, risk monitoring and retrospectives.
