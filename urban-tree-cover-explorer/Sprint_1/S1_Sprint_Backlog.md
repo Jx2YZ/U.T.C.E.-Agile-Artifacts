@@ -9,7 +9,7 @@ This document sets out our Backlog for Sprint 1.
 ||| US1_T3  | Importing and integrating the City of Melbourne tree dataset (sample, then full)                     | Product Owner | Completed ||||||||||||||||
 ||| US1_T4  | Development of tree markers/indicators on maps                                   | Dev A | Completed ||||||||||||||||
 ||| US1_T5  | Implemented a popup that displays basic tree details when the marker is clicked. | Dev A | Completed ||||||||||||||||
-| US2 **Deprioritised by client**          |  As a member of the client teaching team, I would like my login to the Urban Tree Cover Explorer to be secured by two-factor authentication  | US2_T1  | Creating the UI for the login (including 2FA entry)  | Jay Yunze Jiang | Cancelled |8|||||||||8||||||
+| US2 **Deprioritised by client**          |  As a member of the client teaching team, I would like my login to the Urban Tree Cover Explorer to be secured by two-factor authentication  | US2_T1  | Creating the UI for the login (including 2FA entry)  | Yunze Jiang | Cancelled |8|||||||||8||||||
 |               |                                        | US2_T2  | Reviewing documentation regarding WordPress 2FA options     | Yunze Jiang | Cancelled ||||||||||||||||
 |               |                                        | US2_T3  | Install and configure the selected plug-in      | Yunze Jiang | Cancelled ||||||||||||||||
 |               |                                        | US2_T4  | Create user database document for plugin settings  | Yunze Jiang | Cancelled ||||||||||||||||
