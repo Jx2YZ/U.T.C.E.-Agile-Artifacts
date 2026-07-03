@@ -42,7 +42,7 @@ Each participant answers these four key questions:
 |--------------|------------------|-------------|---------|------------------|
 | @Scrum Master | Migrated some documentation from Google Docs to GitHub | Brief the team on what documentation and artefacts still need updating | None | Continue with migrating and updating documentations on GitHub |
 | @Dev A | Redeveloped the map page | Showcase the interactive map page and functionalities to the team | Webpage is still slow | Delete test pages and remove marker listing table |
-| @Jay Yunze Jiang | Updated burn down chart according to previous updates from members | Move the burn down chart drive to GitHub | None | Copy burn down chart to GitHub from Google Docs |
+| @Yunze Jiang | Updated burn down chart according to previous updates from members | Move the burn down chart drive to GitHub | None | Copy burn down chart to GitHub from Google Docs |
 | @Product Owner | Tested the map page and functionalities before showcase | N/A | None | Review QA User Acceptance Testing result against Definition of Done | 
 ---
 
