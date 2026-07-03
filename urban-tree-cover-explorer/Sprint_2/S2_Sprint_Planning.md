@@ -136,5 +136,4 @@ As a client teaching team member, I want to filter through trees around a certai
 |Implement an authentication controller for processing login requests.| Jx2 |1|
 |Create a redirect mechanism for unauthorised access.| Jx2 |1|
 |Design and implement error messaging for failed logins.| Jx2 |1|
-|Design and implement error messaging for failed logins.| Jx2 |1|
-|Design and implement error messaging for failed logins.|  |3|
+
