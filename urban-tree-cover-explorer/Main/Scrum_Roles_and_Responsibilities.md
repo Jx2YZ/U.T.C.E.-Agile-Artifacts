@@ -22,7 +22,7 @@ The following are the key roles and their responsibilities within the Scrum fram
 | **Product Owner**    | Product Owner | Manages the Product Backlog, ensuring it is clear, prioritised, and aligned with project goals |
 | | | Acts as the main point of contact for stakeholders, and communicates feedback to the team |
 | **Development Team** | Dev A & Product Owner | Lead map system design and technology implementation |
-| | Jay Yunze Jiang & Scrum Master | Technical exploration and review of relevant documentation; updating scrum documentation |
+| | Jx2 & Scrum Master | Technical exploration and review of relevant documentation; updating scrum documentation |
 | _QA Engineer_  | QA Engineer | In addition to supporting development tasks, define and implement the project's testing strategy, ensuring quality standards are met. |
 | | | Develop test cases and automate testing (where applicable). |
 
@@ -50,7 +50,7 @@ The following are the key roles and their responsibilities within the Scrum fram
 | | | Track recurring delays in committed deliverables during standups, assess their impact on sprint goals, and take necessary actions to resolve blockers and mitigate risks. |
 | **Product Owner**    | Product Owner | Manages the Product Backlog, ensuring it is clear, prioritised, and aligned with project goals |
 | | | Acts as the main point of contact for stakeholders, and communicates feedback to the team |
-| **Development Team** | Dev A & Jay Yunze Jiang | Lead system design and technology implementation |
+| **Development Team** | Dev A & Jx2 | Lead system design and technology implementation |
 | | Product Owner & Scrum Master | Technical exploration and review of relevant documentation; updating scrum documentation |
 | _QA Engineer_  | QA Engineer | In addition to supporting development tasks, define and implement the project's testing strategy, ensuring quality standards are met. |
 | | | Develop test cases and automate testing (where applicable). |
@@ -80,7 +80,7 @@ The following are the key roles and their responsibilities within the Scrum fram
 | **Product Owner**    | Product Owner | Manages the Product Backlog, ensuring it is clear, prioritised, and aligned with project goals |
 | | | Acts as the main point of contact for stakeholders, and communicates feedback to the team. |
 | **Development Team** | Dev A & Product Owner | Lead system design and technology implementation |
-| | Jay Yunze Jiang & Scrum Master | Technical exploration and review of relevant documentation; updating scrum documentation |
+| | Jx2 & Scrum Master | Technical exploration and review of relevant documentation; updating scrum documentation |
 | _QA Engineer_  | QA Engineer | In addition to supporting development tasks, define and implement the project's testing strategy, ensuring quality standards are met. |
 | | | Develop test cases and automate testing (where applicable). |
 
