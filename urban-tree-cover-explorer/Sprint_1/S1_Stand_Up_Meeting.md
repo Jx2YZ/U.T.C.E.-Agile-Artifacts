@@ -25,7 +25,7 @@ Each participant answers these four key questions:
 | @Product Owner| Imported sample dataset (5000 rows) to WordPress map with markers | Demonstrated to the team how to import csv dataset into WordPress map | Importing large dataset is slow | Clean up Urban Tree dataset for full dataset import and design map user interface |
 | @Scrum Master | Attempted to implement 2FA | Enquire about the 2FA login requirement and plug-in with client | 2FA does not seem to be implemented correctly | Post question on Ed Discussion about 2FA login requirement for the client | 
 | @QA Engineer and @Dev A| Created test pages and maps on WordPress | Discuss with the team on the actual development page and map design | Unfamiliarity with WordPress design tools | Design development page, tree icon appearance and marker listings | 
-| @Jay Yunze Jiang | Drafted burn down chart according to original story points | Update burn down chart | None | Update burn down chart following progress updates made by the team |
+| @Yunze Jiang | Drafted burn down chart according to original story points | Update burn down chart | None | Update burn down chart following progress updates made by the team |
 ---
 
 ### 📅 Date: 2025-04-15
