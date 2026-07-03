@@ -15,7 +15,7 @@ This document sets out our Backlog for Sprint 1.
 ||| US4_T3  | Set up a default filter value of location = Lincoln Square, Distance = 1km, Genus = Ficus, Location_In = Park.                                                         | Product Owner     | Completed ||||||||||||||||
 ||| US4_T4  | Change the marker colours such that different genus have different colours.| Product Owner     | Completed ||||||||||||||||
 |US5| As a client teaching team member, I want to securely access the Urban Tree Cover Explorer application using my username/email and password, so that the risk of data leakage can be reduced. | US5_T1  |  Implement login form UI                                                        | Yunze Jiang | Completed | 5 ||||||||||5||||||
-||| US5_T2  | Implement an authentication controller for processing login requests.| Yunze Jiang | Completed ||||||||||||||||
-||| US5_T3  | Create a redirect mechanism for unauthorised access.| Yunze Jiang | Completed ||||||||||||||||
-||| US5_T4  | Design and implement error messaging for failed logins. | Yunze Jiang | Completed ||||||||||||||||
+||| US5_T2  | Implement an authentication controller for processing login requests.| Jx2 | Completed ||||||||||||||||
+||| US5_T3  | Create a redirect mechanism for unauthorised access.| Jx2 | Completed ||||||||||||||||
+||| US5_T4  | Design and implement error messaging for failed logins. | Jx2 | Completed ||||||||||||||||
 
