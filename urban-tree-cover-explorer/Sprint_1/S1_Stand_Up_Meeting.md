@@ -53,12 +53,12 @@ A centralized action items list for tracking follow-ups:
 | **ID** | **Task** | **Assigned To** | **Status** | **Due Date** |
 |----|----------|------------|----------|---------|
 | 101 | Investigate ways to integrate the Urban Tree dataset to WordPress | @Scrum Master, @QA Engineer and @Product Owner | ✅ Completed | 2025-04-11 |
-| 102 | Investigate how to implement 2FA on WordPress | @Jay and @Scrum Master | 🚧 Pending (deprioritised by client from this sprint due to technical issue)| 2025-04-15 |
-| 103 | Develop QA Strategy | @QA Engineer, @Yunze and @Scrum Master | ✅ Completed | 2025-04-15 |
+| 102 | Investigate how to implement 2FA on WordPress | @Jx2 and @Scrum Master | 🚧 Pending (deprioritised by client from this sprint due to technical issue)| 2025-04-15 |
+| 103 | Develop QA Strategy | @QA Engineer, @Jx2 and @Scrum Master | ✅ Completed | 2025-04-15 |
 | 104 | Clean up and import full Urban Tree dataset into WordPress map | @Product Owner | ✅ Completed | 2025-04-13 |
 | 105 | Post question on Ed for the client about 2FA requirement | @Scrum Master | ✅ Completed | 2025-04-12 |
 | 106 | Draft and design page and map appearance on WordPress | @Dev A | ✅ Completed | 2025-04-15 |
-| 107 | Update burn down chart according progress made by team during Sprint 1 | @Jay | ✅ Completed | 2025-04-19 |
+| 107 | Update burn down chart according progress made by team during Sprint 1 | @Jx2 | ✅ Completed | 2025-04-19 |
 | 108 | Remove all maps and markers from the backend and reimport only 3000 rows of data | @Product Owner | ✅ Completed | 2025-04-15 |
 | 109 | Redo map and marker settings with new dataset | @Dev A | ✅ Completed | 2025-04-16 |
 | 110 | Conduct User Acceptance Testing | @QA Engineer | ✅ Completed | 2025-04-19 |
