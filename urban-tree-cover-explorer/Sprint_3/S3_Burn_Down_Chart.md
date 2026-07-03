@@ -21,4 +21,4 @@
 | 13  | 3.38                        | 0                             |
 | 14  | 0                           | 0                             |
 
-<img width="1176" height="706" alt="image" src="https://github.com/user-attachments/assets/6b07c83a-6cde-40e8-9308-90ac00c998af" />
+<img width="1176" height="706" alt="image" src="https://github.com/user-attachments/assets/4eb9d9f5-4f01-479c-8f8c-935a4751ca34" />
