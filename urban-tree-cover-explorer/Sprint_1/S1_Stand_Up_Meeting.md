@@ -25,7 +25,7 @@ Each participant answers these four key questions:
 | @Product Owner| Imported sample dataset (5000 rows) to WordPress map with markers | Demonstrated to the team how to import csv dataset into WordPress map | Importing large dataset is slow | Clean up Urban Tree dataset for full dataset import and design map user interface |
 | @Scrum Master | Attempted to implement 2FA | Enquire about the 2FA login requirement and plug-in with client | 2FA does not seem to be implemented correctly | Post question on Ed Discussion about 2FA login requirement for the client | 
 | @QA Engineer and @Dev A| Created test pages and maps on WordPress | Discuss with the team on the actual development page and map design | Unfamiliarity with WordPress design tools | Design development page, tree icon appearance and marker listings | 
-| @Yunze Jiang | Drafted burn down chart according to original story points | Update burn down chart | None | Update burn down chart following progress updates made by the team |
+| @Jx2 | Drafted burn down chart according to original story points | Update burn down chart | None | Update burn down chart following progress updates made by the team |
 ---
 
 ### 📅 Date: 2025-04-15
@@ -42,7 +42,7 @@ Each participant answers these four key questions:
 |--------------|------------------|-------------|---------|------------------|
 | @Scrum Master | Migrated some documentation from Google Docs to GitHub | Brief the team on what documentation and artefacts still need updating | None | Continue with migrating and updating documentations on GitHub |
 | @Dev A | Redeveloped the map page | Showcase the interactive map page and functionalities to the team | Webpage is still slow | Delete test pages and remove marker listing table |
-| @Yunze Jiang | Updated burn down chart according to previous updates from members | Move the burn down chart drive to GitHub | None | Copy burn down chart to GitHub from Google Docs |
+| @Jx2 | Updated burn down chart according to previous updates from members | Move the burn down chart drive to GitHub | None | Copy burn down chart to GitHub from Google Docs |
 | @Product Owner | Tested the map page and functionalities before showcase | N/A | None | Review QA User Acceptance Testing result against Definition of Done | 
 ---
 
