@@ -22,7 +22,7 @@ Each participant answers these four key questions:
 | @Dev A | Created and configured the search and filter by distance page (Web Page 1) | Demonstrate Web Page 1 functionality to the team | None | Consolidate Web Page 1 functionality to meet user story requirements |
 | @QA Engineer | Reviewed Sprint 1 feedback and updated Sprint 2 Backlog on GitHub | Discuss with the team alternative way to rate story points for this Sprint | None | Create test cases for User Acceptance Testing |
 | @Scrum Master | Updated Sprint 2 Planning and Risk Monitoring document to GitHub| Check on the development of the webpages and discuss Sprint 1 feedback with team | None | Post question to client on Ed Discussion for clarification on Sprint 2 feature requirements | 
-| @Jay Yunze Jiang| Investigated ways to implement the login page | Continue developing the login page | Unfamiliarity with WordPress plugin | Complete the development and design of login page | 
+| @Yunze Jiang| Investigated ways to implement the login page | Continue developing the login page | Unfamiliarity with WordPress plugin | Complete the development and design of login page | 
 | @Product Owner | Started the development of the search and filter by genus, age description and location page (Web Page 2) | Discuss challenges with team and continue developing Web Page 2 | Unable to set default values for filter | Complete developing Web Page 2 to meet user story |
 ---
 
@@ -30,7 +30,7 @@ Each participant answers these four key questions:
 | **Team Member** | **Yesterday’s Work** | **Today’s Plan** | **Blockers** | **Next Steps / Action Items** |
 |--------------|------------------|-------------|---------|------------------|
 | @QA Engineer | Drafted test cases for User Acceptance Testing | Present the test cases to the team and get feedback | None | Start User Acceptance Testing once development of the new pages completed |
-| @Jay Yunze Jiang | Created login page | Demonstrate the functionality of the login page to the team | None | Update the logo on login page and update Burn Down chart following Acceptance Testing | 
+| @Yunze Jiang | Created login page | Demonstrate the functionality of the login page to the team | None | Update the logo on login page and update Burn Down chart following Acceptance Testing | 
 | @Dev A | Investigated ways to set default filter values for Web Page 2 | Assist the team with any development issues that arise | None | Create a custom logo for login page |
 | @Product Owner | Changed the marker colours such that each genus have different colours | Find out how to set default filter values for Web Page 2 | Limited and outdated documentation on Wp Go Map available | Upload a new dataset with updated category field to a new map and complete development of Web Page 2 |
 | @Scrum Master | Updated risk monitoring document following update from team | Review the Quality Assurance document | None | Prepare materials from Sprint Showcase and Retrospective | 
@@ -43,7 +43,7 @@ Each participant answers these four key questions:
 | @Scrum Master | Drafted agenda for Sprint Showcase and Retrospective | Ensure consistency in Sprint documentations | None | Finalise the Sprint Showcase and Retrospective documentation following the Showcase and Retrospective meeting|
 | @QA Engineer | Completed User Acceptance Testing | Provide feedback to developers on functionalities | None | Finalise QA testing result documentation | 
 | @Product Owner | Completed the development of Web Page 2 | Demonstrate Web Page 2 functionality to the team | None | Update product backlog and review all Sprint 2 documentations|
-| @Jay Yunze Jiang | Updated the login page logo | Denonstrate login page functionality | None | Update and finalise the Burn Down Chart document |
+| @Yunze Jiang | Updated the login page logo | Denonstrate login page functionality | None | Update and finalise the Burn Down Chart document |
 | @Dev A | Created custom logo for login page and reviewed all webpages | Demonstrate Web Page 1 functionality | None | Update product backlog and review all documentations to ensure clarity. |
 
 
