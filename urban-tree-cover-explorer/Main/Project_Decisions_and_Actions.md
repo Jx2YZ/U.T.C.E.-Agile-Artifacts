@@ -6,12 +6,12 @@ This table captures ongoing tasks assigned to Scrum team members, including acti
 
 | **ID**  | **Task**                                    | **Assigned To** | **Status**     | **Due Date**   |
 |--------|---------------------------------------------|-----------------|----------------|----------------|
-| 101   | Remove 2FA and login page story points from Sprint 1 burn down chart   | @Jay Yunze Jiang (Developer) | ✅ Completed | 2025-04-16     |
-| 102    | Adjust 2FA and login page to 0 on Sprint 1 backlog | @Product Owner (Product Owner) | ✅ Completed | 2025-04-16    |
-| 103 | Adjust Sprint 1 risk monitoring document following deprioritisation of login and 2FA. | @Scrum Master (Scrum Master) | ✅ Completed | 2025-04-16    |
-| 104 | Remove rating story points from Sprint 3 Burn Down Chart | @Jay Yunze Jiang (Developer) | ✅ Completed | 2025-05-25     |
-| 105 | Update Sprint 3 Risk Monitoring document following deprioritisation of rating feeature | @Scrum Master (Scrum Master)| ✅ Completed | 2025-05-25     |
-| 106 | Update removal of the rating feature's user story on Groomed Product Backlog and Sprint 3 Backlog | @Product Owner (Product Owner)| ✅ Completed | 2025-05-25     |
+| 101   | Remove 2FA and login page story points from Sprint 1 burn down chart   | @Jx2 (Developer) | ✅ Completed | 2025-04-16     |
+| 102    | Adjust 2FA and login page to 0 on Sprint 1 backlog | @Product Owner | ✅ Completed | 2025-04-16    |
+| 103 | Adjust Sprint 1 risk monitoring document following deprioritisation of login and 2FA. | @Scrum Master | ✅ Completed | 2025-04-16    |
+| 104 | Remove rating story points from Sprint 3 Burn Down Chart | @Jx2 (Developer) | ✅ Completed | 2025-05-25     |
+| 105 | Update Sprint 3 Risk Monitoring document following deprioritisation of rating feeature | @Scrum Master | ✅ Completed | 2025-05-25     |
+| 106 | Update removal of the rating feature's user story on Groomed Product Backlog and Sprint 3 Backlog | @Product Owner | ✅ Completed | 2025-05-25     |
 
 **Legend:**  
 ✅ Completed | 🔄 In Progress | 🛑 Blocked | 🚧 Pending  
