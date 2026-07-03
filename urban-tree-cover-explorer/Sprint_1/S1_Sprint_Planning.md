@@ -77,8 +77,8 @@ As a teaching team member. I want the system to further verify my identification
 |Importing and integrating the City of Melbourne tree dataset| QA Engineer | 4|
 |Development of tree markers/indicators on maps | Dev A | 5 |
 |Implemented a popup that displays basic tree details when the marker is clicked. | Dev A | 5 |
-|Creating the UI for the login | Jay Yunze Jiang | 4 |
-|_DEPRIORITISED_ Examining the Plugin Options WordPress Uses for two Authentication| Jay Yunze Jiang | 4 |
+|Creating the UI for the login | Jx2 | 4 |
+|_DEPRIORITISED_ Examining the Plugin Options WordPress Uses for two Authentication| Jx2 | 4 |
 |_DEPRIORITISED_ Install and configure the selected plug-in| QA Engineer | 4|
-|_DEPRIORITISED_ Create user database document for plugin settings | Jay Yunze Jiang | 4|
+|_DEPRIORITISED_ Create user database document for plugin settings | Jx2 | 4|
 |_DEPRIORITISED_ Testing the two Authentication Function| QA Engineer | 4 |
