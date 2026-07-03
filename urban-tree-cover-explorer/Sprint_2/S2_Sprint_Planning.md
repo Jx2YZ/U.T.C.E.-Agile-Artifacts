@@ -132,8 +132,9 @@ As a client teaching team member, I want to filter through trees around a certai
 |Enable and configure a UI component to enable filtering results based on a selected location, distance from that location, an genus and age of tree (based on dataset features).| Product Owner  |8|
 |Set up a default filter value of location = Lincoln Square, Distance = 1km, Genus = Ficus, Location_In = Park.| Product Owner  |8|
 |	Change the marker colours such that different genus have different colours.| Product Owner |2|
-|Implement login form UI.|Yunze Jiang |2|
-|Implement an authentication controller for processing login requests.|Yunze Jiang |1|
-|Create a redirect mechanism for unauthorised access.|Yunze Jiang |1|
-|Design and implement error messaging for failed logins.|Yunze Jiang |1|
-|Design and implement error messaging for failed logins.|Yunze Jiang |3|
+|Implement login form UI.| Jx2 |2|
+|Implement an authentication controller for processing login requests.| Jx2 |1|
+|Create a redirect mechanism for unauthorised access.| Jx2 |1|
+|Design and implement error messaging for failed logins.| Jx2 |1|
+|Design and implement error messaging for failed logins.| Jx2 |1|
+|Design and implement error messaging for failed logins.|  |3|
