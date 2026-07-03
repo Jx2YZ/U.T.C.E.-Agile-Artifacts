@@ -2,7 +2,7 @@
 
 Scrum/Agile process documentation from a **5-person, 3-sprint software project** delivering an interactive urban tree-mapping web application (WordPress-based) for a client, built between April and June 2025.
 
-**My role:** Jay Yunze Jiang — Development Team. Responsibilities included technical exploration and documentation review, sprint burn-down chart ownership and maintenance across all three sprints, 2FA/login investigation, and contribution to sprint development work. Teammates are anonymised by role (Scrum Master, Product Owner, Dev A, QA Engineer) for privacy.
+**My role:** Yunze Jiang — Development Team. Responsibilities included technical exploration and documentation review, sprint burn-down chart ownership and maintenance across all three sprints, 2FA/login investigation, and contribution to sprint development work. Teammates are anonymised by role (Scrum Master, Product Owner, Dev A, QA Engineer) for privacy.
 
 ## The product
 
